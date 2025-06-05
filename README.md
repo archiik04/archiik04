@@ -1,48 +1,44 @@
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=archiik04.archiik04&"  />
-</div>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29xMHEwcG1rc3oxdG5rajFheGhqdWIyMDJ2M2Y5dG01MXg2c21tYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k1g9hVriuo6Hs4Ty9I/giphy.gif" width=40%>
+<h2>Hi, I'm Archi! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+
+<img align="right" alt="Coding" width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JpYTBodGpndmczaW1ua25zaDMwazJ0d3Q3MnVmc2lxcWZ6cXBwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif">
+
+- Pre-Final year CSE student at KIIT, currently looking for opportunities!
+
+- I’m currently learning **MERN Stack**
+
+- Ask me about DSA, XR (AR/VR)
+
+- Fun fact: Google Youth Advisor
+<br/>
+
+### <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/archi_twt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="archi_twt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/archi-kanungo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archi-kanungo" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/archiik04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="archiik04" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Archiik04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Archiik04" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/archiik04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="archiik04" height="30" width="40" /></a>
 </p>
+<br/>
 
 
-## About Me 
-- ✨ Hi, I'm Archi
-- 🎓 Pre-Final year CSE student at KIIT, currently looking for opportunities!
-- ✔️ 2025 Goals: Build cool stuff
-- ⚡ Fun fact: Google Youth Advisor
+### <h3 align="left">Tech Stack:</h3>
 
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Meta Quest](https://img.shields.io/badge/-Meta%20Quest-000000?style=flat-square&logo=meta&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
----
+##
 
-###
-
-### 👨‍💻 Core Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-### 🥽 XR &mdash; AR &middot; MR &middot; VR
-![Meta Quest](https://img.shields.io/badge/Meta%20Quest-0467DF?style=for-the-badge&logo=Meta&logoColor=FFFFFF)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=000000)
-
-
-### 🛠️ Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=FFFFFF)
-
----
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=archiik04&show_icons=true&locale=en&layout=compact" alt="archiik04" /></p>
-
-
-
-
-
-
-
