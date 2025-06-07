@@ -1,22 +1,16 @@
+<h2><img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 
-<h2>Hi, I'm Archi! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<pre>
+Hi, I'm Archi!
 
+Pre-Final year CSE student at KIIT, currently looking for opportunities.
 
-- Pre-Final year CSE student at KIIT, currently looking for opportunities!
+I’m currently learning: MERN Stack
 
-- I’m currently learning **MERN Stack**
+Ask me about: DSA, XR (AR/VR)
 
-- Ask me about DSA, XR (AR/VR)
-
-- Fun fact: Google Youth Advisor
-<br/>
-
-### <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/archi_twt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="archi_twt" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/archi-kanungo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archi-kanungo" height="30" width="40" /></a>
-</p>
-<br/>
+Fun fact: Google Youth Advisor
+</pre>
 
 
 ### <h3 align="left">Tech Stack:</h3>
@@ -35,6 +29,11 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
+### <h3 align="left">Connect with me:</h3>
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/archi_twt)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archi-kanungo/)
+
+
 ##
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=archiik04&show_icons=true&locale=en&layout=compact" alt="archiik04" /></p>
