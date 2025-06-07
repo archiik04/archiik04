@@ -13,7 +13,7 @@ Fun fact: Google Youth Advisor
 </pre>
 
 
-### <h3 align="left">Tech Stack:</h3>
+### <h3 align="left">Languages and Tools:</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
