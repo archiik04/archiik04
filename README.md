@@ -34,7 +34,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel&logoColor=white)
 
 <h3 align="left">
- <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />   connect with me
+ <h3> connect with me
 </h3>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2)](https://x.com/archi_twt)
@@ -45,12 +45,18 @@
 
 
 <details>
-<summary>  github stats </summary>
+<summary>github stats</summary>
 <br>
-  <img align="left" alt="archiik04's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=archiik04&show_icons=true&hide_border=false&title_color=00FFFF&icon_color=00FFFF&bg_color=000000&text_color=FFFFFF&border_color=333333" />
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=archiik04&show_icons=true&hide_border=false&title_color=00FFFF&icon_color=00FFFF&bg_color=000000&text_color=FFFFFF&border_color=333333" width="420"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archiik04&layout=compact&hide_border=false&title_color=00FFFF&bg_color=000000&text_color=FFFFFF&border_color=333333" width="320"/>
+</p>
 
 </details>
+
+
+
 
 
