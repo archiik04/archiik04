@@ -1,5 +1,4 @@
 <h2>hi, i'm archi!  <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXllNm8xMmZ1bnA2c25iMzBncnQzOHU2ZGpoeXZ2bzN5aGl1aHNvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" width="25%" align="right" />
 
 
 
@@ -31,7 +30,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code&logoColor=007ACC)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&logoColor=6DB33F)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=Eclipse&logoColor=2C2255)
-![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel&logoColor=white)
+
 
 <h3 align="left">
  <h3> connect with me
