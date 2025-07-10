@@ -2,7 +2,7 @@
 
 
 
-- 🎓 pre-final year cse student at KIIT, currently looking for opportunities.  
+- 🎓 pre-final year cse student at KIIT, currently looking for opportunities 
 - 🌱 i’m currently learning: java  
 - 💬 ask me about: xr (ar/vr)  
 - ⚡ fun fact: google youth advisor
