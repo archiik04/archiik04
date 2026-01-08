@@ -3,7 +3,7 @@
 
 
 - 🎓 pre-final year cse student at KIIT, currently looking for opportunities.
-- 🌱 i’m currently learning: java  
+- 🌱 i’m currently learning: java
 - 💬 ask me about: xr (ar/vr)  
 - ⚡ fun fact: google youth advisor
 
@@ -41,19 +41,6 @@
 [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail&logoColor=EA4335)](mailto:archikanungo2004@gmail.com)
 
  ##
-
-
-<details>
-<summary>github stats</summary>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=archiik04&show_icons=true&hide_border=false&title_color=00FFFF&icon_color=00FFFF&bg_color=000000&text_color=FFFFFF&border_color=333333" width="420"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archiik04&layout=compact&hide_border=false&title_color=00FFFF&bg_color=000000&text_color=FFFFFF&border_color=333333" width="320"/>
-</p>
-
-</details>
 
 
 
