@@ -5,7 +5,7 @@
 - 🎓 pre-final year cse student at KIIT
 - 🌱 i’m currently learning: full-stack dev & dsa
 - 💬 ask me about: xr (ar/vr)  
-- ⚡ fun fact: google youth advisor via canvas8
+- ⚡ fun fact: google youth advisor 
 
 
 
