@@ -24,7 +24,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=3178C6)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go&logoColor=00ADD8)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite&logoColor=646CFF)
 
 
 ### <h3 align="left">xr - ar/vr </h3>
@@ -45,14 +44,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2)](https://x.com/archi_twt)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=Linkedin&logoColor=0A66C2)]( https://www.linkedin.com/in/archi-kanungo/)
 [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail&logoColor=EA4335)](mailto:archikanungo2004@gmail.com)
-
-
-
-
-
-### <h3 align="left">blogs</h3> 
-
-[![Hashnode](https://img.shields.io/badge/-Read%20My%20Blog-000?&logo=Hashnode&logoColor=2962FF)](https://image-based-ar-in-unity-with-vuforia.hashnode.dev/building-image-tracking-augmented-reality-with-vuforia)
 
 
  ##
