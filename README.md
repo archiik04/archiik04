@@ -1,11 +1,9 @@
-<h2>hi, i'm archi!  <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+# Archi Kanungo
 
 
-
-- 🎓 pre-final year cse student at KIIT
-- 🌱 i’m currently learning: full-stack dev & dsa
-- 💬 ask me about: xr (ar/vr)  
-- ⚡ fun fact: google youth advisor 
+- pre-final year cse student at kiit
+- i’m currently learning: full-stack dev & dsa 
+- fun fact: google youth advisor 
 
 
 
@@ -30,11 +28,6 @@
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity&logoColor=white)
 ![Meta Quest](https://img.shields.io/badge/-Meta%20Quest-000?&logo=meta&logoColor=white)
 
-
-### <h3 align="left">development tools</h3>
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=Eclipse&logoColor=2C2255)
 
 
 <h3 align="left">
