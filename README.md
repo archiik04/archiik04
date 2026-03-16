@@ -29,6 +29,18 @@
 ![Meta Quest](https://img.shields.io/badge/-Meta%20Quest-000?&logo=meta&logoColor=white)
 
 
+<details>
+<summary>github analytics</summary>
+<br>
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=archiik04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archiik04&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+</details>
+
+
 
 <h3 align="left">
  <h3> connect with me
