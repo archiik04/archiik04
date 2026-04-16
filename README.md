@@ -1,7 +1,7 @@
 # Archi Kanungo
 
 
-- pre-final year cse student at kiit
+- final year cse student at kiit
 - i’m currently learning: full-stack dev & dsa 
 - fun fact: google youth advisor 
 
