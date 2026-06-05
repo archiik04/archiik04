@@ -14,7 +14,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=C-Sharp&logoColor=239120)
 
 ### <h3 align="left">web</h3>
 
@@ -23,10 +22,28 @@
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go&logoColor=00ADD8)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS&logoColor=06B6D4)
 
+### <h3 align="left">ai / ml </h3>
 
-### <h3 align="left">xr - ar/vr </h3>
-![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity&logoColor=white)
-![Meta Quest](https://img.shields.io/badge/-Meta%20Quest-000?&logo=meta&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch&logoColor=EE4C2C)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?&logo=scikit-learn&logoColor=F7931E)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=OpenAI&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=chainlink&logoColor=white)
+![Vector DB](https://img.shields.io/badge/-Vector%20Databases-000?&logo=databricks&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-000?&logo=openai&logoColor=white)
+
+
+### <h3 align="left">xr - ar/vr</h3>
+
+![Unity](https://img.shields.io/badge/-Unity-000?\&logo=Unity\&logoColor=white)
+![Meta Quest](https://img.shields.io/badge/-Meta%20Quest-000?\&logo=meta\&logoColor=white)
+![AR Foundation](https://img.shields.io/badge/-AR%20Foundation-000?\&logo=unity\&logoColor=white)
+![ARCore](https://img.shields.io/badge/-ARCore-000?\&logo=google\&logoColor=4285F4)
+![OpenXR](https://img.shields.io/badge/-OpenXR-000?\&logo=openxr\&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-000?\&logo=C-Sharp\&logoColor=239120)
+![VR](https://img.shields.io/badge/-Virtual%20Reality-000?\&logo=oculus\&logoColor=white)
+
 
 
 <details>
