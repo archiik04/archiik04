@@ -28,7 +28,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch&logoColor=EE4C2C)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?&logo=scikit-learn&logoColor=F7931E)
-![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=OpenAI&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=chainlink&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/-Vector%20Databases-000?&logo=databricks&logoColor=white)
 ![RAG](https://img.shields.io/badge/-RAG-000?&logo=openai&logoColor=white)
@@ -45,17 +44,8 @@
 ![VR](https://img.shields.io/badge/-Virtual%20Reality-000?\&logo=oculus\&logoColor=white)
 
 
-
-<details>
-<summary>github analytics</summary>
-<br>
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=archiik04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archiik04&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-</details>
+### <h3 align="left">database</h3>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?\&logo=PostgreSQL\&logoColor=4169E1)
 
 
 
